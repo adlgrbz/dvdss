@@ -1,0 +1,19 @@
+# XScreenSaver Preferences File
+# https://www.jwz.org/xscreensaver/
+
+# TEST
+
+timeout: 0:00:15
+cycle: 0
+lock: True
+lockTimeout: 0:01:00
+passwdTimeout: 0:01:30
+visualID: default
+splash: False
+fade: True
+
+mode: one
+selected: 1
+
+programs:                       \
+			dvdss \n\
