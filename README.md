@@ -1,2 +1,3 @@
 # dvdss
-Screen Saver
+
+**DVD** **S**creen**S**aver with XScreenSaver and Tkinter 
